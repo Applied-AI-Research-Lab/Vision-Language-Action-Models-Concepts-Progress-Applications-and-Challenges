@@ -73,21 +73,3 @@ If you find our work useful in your research, please consider citing:
 
 - **alayrac2022flamingo:** Alayrac, Jean-Baptiste, Donahue, Jeff, Luc, Pauline, Miech, Antoine, Barr, Iain, Hasson, Yana, Lenc, Karel, Mensch, Arthur, Millican, Katherine, Reynolds, Malcolm, others.<br />
   "Flamingo: a visual language model for few-shot learning." Advances in neural information processing systems (2022).
-
-### Follow-up Papers
-- [2026](Paper_List/paper_list_2026.md)
-- [2025](Paper_List/paper_list_2025.md)
-- [2024](Paper_List/paper_list_2024.md)
-- [2023](Paper_List/paper_list_2023.md)
-- [2022](Paper_List/paper_list_2022.md)
-- [2021](Paper_List/paper_list_2021.md)
-- [2020](Paper_List/paper_list_2020.md)
-- [2019](Paper_List/paper_list_2019.md)
-- [2018](Paper_List/paper_list_2018.md)
-- [2017](Paper_List/paper_list_2017.md)
-- [2016](Paper_List/paper_list_2016.md)
-- [2015](Paper_List/paper_list_2015.md)
-- [2014](Paper_List/paper_list_2014.md)
-- [2011](Paper_List/paper_list_2011.md)
-- [2010](Paper_List/paper_list_2010.md)
-
