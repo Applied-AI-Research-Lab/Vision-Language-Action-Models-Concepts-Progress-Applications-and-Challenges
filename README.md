@@ -50,7 +50,29 @@ If you find our work useful in your research, please consider citing:
 
 ### Seminal Papers
 
-add some seminal paper of those in mds here
+- **simonyan2014very:** Simonyan, Karen, Zisserman, Andrew.<br />
+  "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
+
+- **donahue2015long:** Donahue, Jeffrey, Anne Hendricks, Lisa, Guadarrama, Sergio, Rohrbach, Marcus, Venugopalan, Subhashini, Saenko, Kate, Darrell, Trevor.<br />
+  "Long-term recurrent convolutional networks for visual recognition and description." Proceedings of the IEEE conference on computer vision and pattern recognition (2015).
+
+- **radford2018improving:** Radford, Alec, Narasimhan, Karthik, Salimans, Tim, Sutskever, Ilya, others.<br />
+  "Improving language understanding by generative pre-training." (2018).
+
+- **tellex2020robots:** Tellex, Stefanie, Gopalan, Nakul, Kress-Gazit, Hadas, Matuszek, Cynthia.<br />
+  "Robots that use language." Annual Review of Control, Robotics, and Autonomous Systems (2020).
+
+- **radford2021learning:** Radford, Alec, Kim, Jong Wook, Hallacy, Chris, Ramesh, Aditya, Goh, Gabriel, Agarwal, Sandhini, Sastry, Girish, Askell, Amanda, Mishkin, Pamela, Clark, Jack, others.<br />
+  "Learning transferable visual models from natural language supervision." ICML (2021).
+
+- **reed2022generalist:** Reed, Scott, Zolna, Konrad, Parisotto, Emilio, Colmenarejo, Sergio Gomez, Novikov, Alexander, Barth-Maron, Gabriel, Gimenez, Mai, Sulsky, Yury, Kay, Jackie, Springenberg, Jost Tobias, others.<br />
+  "A generalist agent." arXiv preprint arXiv:2205.06175 (2022).
+
+- **brohan2022rt:** Brohan, Anthony, Brown, Noah, Carbajal, Justice, Chebotar, Yevgen, Dabis, Joseph, Finn, Chelsea, Gopalakrishnan, Keerthana, Hausman, Karol, Herzog, Alex, Hsu, Jasmine, others.<br />
+  "Rt-1: Robotics transformer for real-world control at scale." arXiv preprint arXiv:2212.06817 (2022).
+
+- **alayrac2022flamingo:** Alayrac, Jean-Baptiste, Donahue, Jeff, Luc, Pauline, Miech, Antoine, Barr, Iain, Hasson, Yana, Lenc, Karel, Mensch, Arthur, Millican, Katherine, Reynolds, Malcolm, others.<br />
+  "Flamingo: a visual language model for few-shot learning." Advances in neural information processing systems (2022).
 
 ### Follow-up Papers
 - [2026](Paper_List/paper_list_2026.md)
